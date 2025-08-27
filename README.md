@@ -2,4 +2,4 @@ Hey 👋
 
 I'm Michele, Product Designer — Love designing, building & shipping stuff on the web.
 
-Currently based in the beautiful [Dolomites](https://en.wikipedia.org/wiki/Dolomites), Italy.
+Currently shaping the future of the shipping industry at [Portchain](https://portchain.com).
